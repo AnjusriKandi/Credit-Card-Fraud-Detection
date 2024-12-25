@@ -27,4 +27,4 @@ The code will:
 
 ## Results
 
-* Key Metrics: The final model's accuracy, confusion matrix, and classification report are provided in the code.
+Key Metrics: The final model's accuracy, confusion matrix, and classification report are provided in the code.
